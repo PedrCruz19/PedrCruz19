@@ -29,5 +29,5 @@
 
 
 # STATS:
-[![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrCruz19)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrCruz19)](https://github.com/anuraghazra/github-readme-stats)
+[![Pedro GitHub stats](github-readme-stats-1240589s-projects.vercel.app/api?username=PedrCruz19)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats-1240589s-projects.vercel.app/api/top-langs/?username=PedrCruz19)](https://github.com/anuraghazra/github-readme-stats)
