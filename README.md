@@ -27,6 +27,4 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 
-
-
-📎 GitHub: [https://github.com/PedrCruz19](https://github.com/PedrCruz19)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrCruz19)](https://github.com/anuraghazra/github-readme-stats)
