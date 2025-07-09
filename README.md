@@ -29,4 +29,4 @@
 
 
 # STATS:
-![GitHub Stats](github-readme-stats-19pz2ci5v-1240589s-projects.vercel.app/api?username=PedrCruz19&show_icons=true&count_private=true)
+![GitHub Stats](github-readme-stats-1240589s-projects.vercel.app/api?username=PedrCruz19&show_icons=true&count_private=true)
