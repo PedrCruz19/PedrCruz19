@@ -2,17 +2,36 @@
 
 <h1 align="center">Hey, I'm Pedro 👋</h1>
 <p align="center">
-  Passionate developer, problem-solver, and tech enthusiast.  
-  Welcome to my GitHub space 🚀
+  Full-stack & systems developer with a passion for scalable apps, efficient processes, and creative tech solutions.  
+  Welcome to my GitHub universe 🚀
 </p>
 
 ---
 
 ### 🧰 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,prisma,tailwindcss,vercel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nestjs,nodejs,spring,java,c,postgres,prisma,docker,kubernetes,vercel,githubactions" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,git,aws" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloudflare-CDN%20%26%20Security-orange?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
+---
+
+### 🧠 Knowledge Areas
+
+- 💻 Operating Systems (Linux/Unix-based)
+- 🧵 Process & Thread Management
+- 📦 Raspberry Pi Projects
+- 📊 Power BI & Data Visualization
+- ⚙️ VBA Automation (Excel Macros)
+- ☁️ AWS Cloud Fundamentals & Deployment
 
 ---
 
