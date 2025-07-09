@@ -32,6 +32,7 @@
 - 📊 Power BI & Data Visualization
 - ⚙️ VBA Automation (Excel Macros)
 - ☁️ AWS Cloud Fundamentals & Deployment
+- 🍃 Spring Boot
 
 ---
 
