@@ -27,9 +27,6 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 
-# 📊 GitHub Stats:
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedrCruz19&show_icons=true&theme=blue_navy&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrCruz19&layout=compact&theme=blue_navy&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PedrCruz19&theme=blue_navy&hide_border=false)
+
 
 📎 GitHub: [https://github.com/PedrCruz19](https://github.com/PedrCruz19)
