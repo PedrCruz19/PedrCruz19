@@ -29,4 +29,5 @@
 
 
 # STATS:
-![GitHub Stats](github-readme-stat-neon.vercel.app/api?username=PedrCruz19&show_icons=true&count_private=true)
+<img src="https://github-readme-stat-neon.vercel.app/api?username=PedrCruz19&show_icons=true&count_private=true" />
+
