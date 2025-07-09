@@ -43,7 +43,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-cruz19/" target="_blank">
+  <a href="https://www.linkedin.com/in/pruz19/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:1240589@isep.ipp.pt">
